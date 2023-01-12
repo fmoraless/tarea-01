@@ -1,0 +1,12 @@
+.taskList {
+    /* estilos para el contenedor de la lista de tareas */
+    width: 50%;
+  min-height: 200px;
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  }
