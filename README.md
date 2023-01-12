@@ -21,19 +21,20 @@
 ## Demo
 
 Puedes probar este proyecto desde el siguiente enlace
+https://react-tarea-01.netlify.app/
 
 ## Ejecutar en Local
 
 Clonar projecto
 
 ```bash
-  git clone
+  git clone https://github.com/fmoraless/tarea-01.git
 ```
 
 Ir al directorio del proyecto
 
 ```bash
-  cd
+  cd tarea-01
 ```
 
 Instalar dependencias
